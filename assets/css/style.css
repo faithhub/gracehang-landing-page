@@ -382,6 +382,19 @@ h6 {
     transition: 0.3s;
 }
 
+.btn-started {
+    display: inline-block;
+    padding: 10px 40px 12px 40px;
+    border-radius: 50px;
+    border: 2px solid #009961;
+    color: #009961;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Raleway", sans-serif;
+    font-weight: 600;
+    transition: 0.3s;
+}
+
 .navbar-mobile a {
     padding: 10px 20px;
     font-size: 15px;
